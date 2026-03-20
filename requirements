@@ -1,0 +1,33 @@
+Jako Administrator, chcę zarządzać uprawnieniami użytkowników (kto może tworzyć, a kto tylko przeglądać), aby zapewnić bezpieczeństwo i poufność zbieranych danych.
+Jako Administrator, chcę dodawać nowe filmy do systemu, aby repertuar kina był zawsze aktualny.
+Jako Administrator, chcę edytować informacje o filmach, aby poprawiać błędy lub aktualizować dane.
+Jako Administrator, chcę usuwać filmy z systemu, aby usuwać nieaktualne pozycje z repertuaru.
+Jako Administrator, chcę tworzyć i zarządzać seansami, aby określać godziny wyświetlania filmów.
+Jako Administrator, chcę zarządzać salami kinowymi (dodawać, edytować, usuwać), aby odzwierciedlić rzeczywistą strukturę kina.
+Jako Administrator, chcę przypisywać filmy do konkretnych sal i godzin, aby poprawnie tworzyć harmonogram seansów.
+Jako Administrator, chcę przeglądać raporty sprzedaży biletów, aby analizować wyniki finansowe kina.
+Jako Administrator, chcę zarządzać kontami użytkowników, aby mieć kontrolę nad dostępem do systemu.
+Jako Administrator, chcę blokować lub usuwać konta użytkowników, aby zapobiegać nadużyciom.
+Jako Administrator, chcę definiować różne typy biletów (normalny, ulgowy), aby umożliwić sprzedaż różnych wariantów cenowych.
+
+Jako Klient, chcę logować się do systemu, aby mieć dostęp do swoich rezerwacji i zakupów.
+Jako Klient, chcę przeglądać repertuar kina, aby wybrać  film.
+Jako Klient, chcę filtrować seanse według daty, aby łatwo znaleźć odpowiedni termin.
+Jako Klient, chcę przeglądać szczegóły filmu (opis, czas trwania, kategoria), aby podjąć decyzję o wyborze.
+Jako Klient, chcę sprawdzać dostępność miejsc na sali, aby wybrać najlepsze miejsca.
+Jako Klient, chcę wybierać konkretne miejsca na seansie, aby mieć komfort oglądania.
+Jako Klient, chcę rezerwować bilety online, aby zagwarantować sobie miejsce na seansie.
+Jako Klient, chcę wybierać różne typy biletów (np. normalny, ulgowy), aby dopasować zakup do swojej sytuacji.
+Jako Klient, chcę otrzymać potwierdzenie zakupu (np. e-mail), aby mieć dowód transakcji.
+Jako Klient, chcę mieć dostęp do historii swoich zamówień, aby móc sprawdzić wcześniejsze zakupy.
+Jako Klient, chcę otrzymać bilet w formie elektronicznej (np. kod QR), aby łatwo wejść na seans.
+
+Jako Gość, chcę móc założyć konto, aby móc kupować bilety online.
+Jako Gość, chcę przeglądać repertuar kina, aby zobaczyć jakie filmy są dostępne.
+Jako Gość, chcę przeglądać szczegóły filmów (opis, czas trwania, kategoria), aby zdecydować czy mnie interesują.
+Jako Gość, chcę przeglądać dostępne seanse, aby wybrać dogodny termin.
+Jako Gość, chcę filtrować seanse według daty, aby łatwo znaleźć odpowiedni seans.
+Jako Gość, chcę sprawdzać dostępność miejsc na sali, aby zobaczyć czy są wolne miejsca.
+Jako Gość, chcę zobaczyć ceny biletów, aby podjąć decyzję o zakupie.
+Jako Gość, chcę widzieć informacje o dostępnych typach biletów, aby wiedzieć jakie opcje są dostępne.
+
