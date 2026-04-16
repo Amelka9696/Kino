@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="XwVqNbhrWVdAhITQ4pu0">
+    <mxGraphModel dx="1414" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5UihvTc92ZBExngPEAlE-33" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Film" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-35" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Seans" vertex="1">
+          <mxGeometry height="40" width="100" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-36" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Sala kinowa" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-37" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Miejsce" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-38" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Użytkownik" vertex="1">
+          <mxGeometry height="40" width="100" x="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-39" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Rezerwacja" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-40" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Bilet" vertex="1">
+          <mxGeometry height="40" width="100" x="150" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-41" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Płatność" vertex="1">
+          <mxGeometry height="40" width="100" x="600" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-44" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5UihvTc92ZBExngPEAlE-35" value="wyświetlany na">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="330" y="150" as="sourcePoint" />
+            <mxPoint x="490" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-45" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="5UihvTc92ZBExngPEAlE-39" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="160" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-46" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5UihvTc92ZBExngPEAlE-39" value="składa">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="170" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-47" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="5UihvTc92ZBExngPEAlE-37" value="posiada">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="610" y="270" as="sourcePoint" />
+            <mxPoint x="770" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-48" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.66;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="5UihvTc92ZBExngPEAlE-39" value="obejmuje">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="590" y="390" as="sourcePoint" />
+            <mxPoint x="750" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-49" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="5UihvTc92ZBExngPEAlE-40" value="generuje">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="550" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-50" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.58;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="5UihvTc92ZBExngPEAlE-41" value="opłacana przez">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="450" y="460" as="sourcePoint" />
+            <mxPoint x="610" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UihvTc92ZBExngPEAlE-51" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" target="5UihvTc92ZBExngPEAlE-36" value="odbywa się w">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="200" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
