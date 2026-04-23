@@ -24,22 +24,7 @@
 - Rezerwacja generuje jeden lub więcej Biletów
 - Płatność jest powiązana z jedną Rezerwacją
 
----
 
-## Diagram
-
-```
-FILM ||--o{ SEANS : "jest wyświetlany na"
-SEANS }o--|| SALA_KINOWA : "odbywa się w"
-SALA_KINOWA ||--|{ MIEJSCE : "posiada"
-UŻYTKOWNIK ||--o{ REZERWACJA : "składa"
-REZERWACJA }o--|| SEANS : "dotyczy"
-REZERWACJA }|--|{ MIEJSCE : "obejmuje"
-REZERWACJA ||--|{ BILET : "generuje"
-REZERWACJA ||--|| PŁATNOŚĆ : "jest opłacana przez"
-```
-
-Pełny diagram ERD dostępny w narzędziu draw.io / Miro na podstawie powyższych encji i relacji.
 
 ---
 
